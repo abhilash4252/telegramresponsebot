@@ -1,0 +1,22 @@
+{
+  "name": "my_package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhilash4252/telegramresponsebot.git"
+  },
+  "author": "AK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhilash4252/telegramresponsebot/issues"
+  },
+  "homepage": "https://github.com/abhilash4252/telegramresponsebot#readme",
+  "description": "",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
